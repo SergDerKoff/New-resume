@@ -1,2 +1,2 @@
 # New-resume
-New-resume
+Моё резюме HTML
