@@ -1,2 +1,2 @@
-# New-resume
-Моё резюме HTML
+# Сайт-резюме HTML + CSS + JS
+Ссылка 
